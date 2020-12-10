@@ -11,7 +11,7 @@
 <p> - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Juniorandree](https://github.com/Juniorandree) </p>
 <p> - 📫 Cómo comunicarse conmigo **juniorandree123@gmail.com** </p>
  - ⚡ Dato curioso **Creo que soy Carismatico**
-
+</p>
 <h3 align = "center"> Conéctese conmigo: </h3>
 <p align = "center">
 <a href="https://twitter.com/juniorandree123" target="blank"><img align = "center" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt ="juniorandree123" height="30" width="40"/></a>
