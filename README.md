@@ -6,12 +6,12 @@
 
 <p align ="center"> <a href="https://twitter.com/juniorandree123" target="blank"> <img src ="https://img.shields.io/twitter/follow/juniorandree123?logo=twitter&style=for-the-badge" alt="juniorandree123"/></a></p>
 
-<p align="center">
+<div align="center">
 <p> - 🌱 Actualmente estoy aprendiendo **Javascrip, Vuejs** </p>
- - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Juniorandree](https://github.com/Juniorandree) 
- - 📫 Cómo comunicarse conmigo **juniorandree123@gmail.com** 
- - ⚡ Dato curioso **Creo que soy Carismatico**
-</p>
+<p> - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Juniorandree](https://github.com/Juniorandree) </p> 
+<p> - 📫 Cómo comunicarse conmigo **juniorandree123@gmail.com** </p> 
+ <p> - ⚡ Dato curioso **Creo que soy Carismatico** </p>
+</div>
 <h3 align = "center"> Conéctese conmigo: </h3>
 <p align = "center">
 <a href="https://twitter.com/juniorandree123" target="blank"><img align = "center" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt ="juniorandree123" height="30" width="40"/></a>
