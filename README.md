@@ -2,9 +2,7 @@
 <h1 align = "center"> Hola 👋, soy Junior Andree Acosta Quispe </h1>
 <h3 align="center"> Aprendiendo constantemente </h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=juniorandree&label=Profile%20views&color=0e75b6&style=flat" alt="juniorandree"/></p>
-
-<p align ="center"> <a href="https://twitter.com/juniorandree123" target="blank"> <img src ="https://img.shields.io/twitter/follow/juniorandree123?logo=twitter&style=for-the-badge" alt="juniorandree123"/></a></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=juniorandree&label=Profile%20views&color=0e75b6&style=flat" alt="juniorandree"/></p><p align ="center"> <a href="https://twitter.com/juniorandree123" target="blank"> <img src ="https://img.shields.io/twitter/follow/juniorandree123?logo=twitter&style=for-the-badge" alt="juniorandree123"/></a></p>
 
 <p align="center"> -🌱 Actualmente estoy aprendiendo <b>Javascrip, Vuejs</b></p>
 <p align="center"> -👨‍💻 Todos mis proyectos están disponibles en https://github.com/Juniorandree <a href="https://github.com/Juniorandree"></a></p>
