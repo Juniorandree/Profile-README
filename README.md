@@ -8,7 +8,7 @@
 
 <div align="center">
 <p> - 🌱 Actualmente estoy aprendiendo **Javascrip, Vuejs** </p>
-<p> - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Juniorandree] (https://github.com/Juniorandree) </p> 
+ - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Juniorandree](https://github.com/Juniorandree) 
 <p> - 📫 Cómo comunicarse conmigo **juniorandree123@gmail.com** </p> 
 <p> - ⚡ Dato curioso **Creo que soy Carismatico** </p>
 </div>
