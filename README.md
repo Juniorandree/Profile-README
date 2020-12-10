@@ -9,7 +9,7 @@
 
 <h5 align="center"> -🌱 Actualmente estoy aprendiendo Javascrip, Vuejs </h3>
 <h5 align="center"> -👨‍💻 Todos mis proyectos están disponibles en https://github.com/Juniorandree <a href="https://github.com/Juniorandree"> </a> </h3>
-<h5 align="center"> -📫 Cómo comunicarse conmigo <h4>juniorandree123@gmail.com </h4></h3> 
+<h5 align="center"> -📫 Cómo comunicarse conmigo juniorandree123@gmail.com </h3> 
 <h5 align="center"> -⚡ Dato curioso Creo que soy Carismatico </h3>
 
 <h3 align = "center"> Conéctese conmigo: </h3>
