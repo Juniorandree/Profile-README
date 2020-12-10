@@ -18,7 +18,7 @@
 <a href="https://twitter.com/juniorandree123" target="blank"><img align = "center" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt ="juniorandree123" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/juniorandree123" target="blank"><img align ="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juniorandree123" height ="30" width="40"/></a>
 <a href="https://stackoverflow.com/users/juniorandree123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="juniorandree123" height="30" width="40"/></a>
-<a href="https://fb.com/juniorandree123" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juniorandree123" height ="30" width="40"/></a>
+<a href="https://fb.com/juniorandree123" target="blank"><img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juniorandree123" height ="30" width="40"/></a>
 <a href="https://instagram.com/juniorandree123" target="blank"><img align="centro" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juniorandree123" height="30" width="40"/></a>
 <a href="https://discord.gg/Juniorandree" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Juniorandree" height="30" width="40"/></a>
 </p>
