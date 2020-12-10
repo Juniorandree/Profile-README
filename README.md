@@ -6,7 +6,7 @@
 
 <p align ="center"> <a href="https://twitter.com/juniorandree123" target="blank"> <img src ="https://img.shields.io/twitter/follow/juniorandree123?logo=twitter&style=for-the-badge" alt="juniorandree123"/></a></p>
 
-<p align="center"> -🌱 Actualmente estoy aprendiendo <n>Javascrip, Vuejs</n> </p>
+<p align="center"> -🌱 Actualmente estoy aprendiendo <b>Javascrip, Vuejs</b> </p>
 <p align="center"> -👨‍💻 Todos mis proyectos están disponibles en https://github.com/Juniorandree <a href="https://github.com/Juniorandree"> </a> </p>
 <p align="center"> -📫 Cómo comunicarse conmigo juniorandree123@gmail.com </p> 
 <p align="center"> -⚡ Dato curioso soy Proactivo </p>
